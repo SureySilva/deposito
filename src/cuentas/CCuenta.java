@@ -9,8 +9,8 @@ package cuentas;
  * @author Surey
  */
 public class CCuenta {
-
-  
+ 
+  /* Añado un comentario para el punto 2 de la tarea*/
 
 
     private String nombre;
